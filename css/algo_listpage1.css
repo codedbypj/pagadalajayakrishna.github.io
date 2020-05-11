@@ -1,0 +1,76 @@
+#button1{
+    width:125px;
+    height: 125px;
+    background-color: #18db18;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 550px;
+    left: 650px;
+}
+#button2{
+    width:125px;
+    height: 125px;
+    background-color: #18db18;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 400px;
+    left: 450px;
+}
+#button3{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom:400px;
+    left: 850px;
+}
+/*#button4{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 400px;
+    left: 900px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+#b1{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 550px;
+    left: 650px;
+}
+#b2{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 450px;
+    left: 450px;
+}
+#b3{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 450px;
+    left: 850px;
+}
+#b4{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 250px;
+    left: 550px;
+}
+#b5{
+    width: 125px;
+    height: 125px;
+    border: none;
+    background-color: #18db18;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 250px;
+    left: 750px;
+}
+
+
+
+

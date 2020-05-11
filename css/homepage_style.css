@@ -1,0 +1,60 @@
+#p1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    bottom: 400px;
+    left: 437px;
+}
+#p2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    bottom:370px;
+    left: 630px;
+}
+#sort_png{
+    position: absolute;
+    bottom: 450px;
+    left: 480px;
+}
+#map_png{
+    position: absolute;
+    bottom: 300px;
+    left: 720px;
+}
+#race_png{
+    position: absolute;
+    bottom: 350px;
+    left:480px;
+}
+#algo_list_1_link{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif, Courier, monospace;
+    font-weight: bold;
+    font-size:x-large;
+    position: absolute;
+    bottom: 200px;
+    left: 550px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
